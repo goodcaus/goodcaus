@@ -1,0 +1,8 @@
+title: Good Causes
+description: ways to make a difference, big and small
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
